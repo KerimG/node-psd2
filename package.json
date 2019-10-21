@@ -1,0 +1,15 @@
+{
+  "name": "node-psd2",
+  "version": "0.1.0",
+  "description": "Following the EU directive European financial institutions have implemented so-called PSD2 API's. This is a package that is supposed to help facilitate connecting to such API's in Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "psd2",
+    "tpp"
+  ],
+  "author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
+  "license": "MIT"
+}
